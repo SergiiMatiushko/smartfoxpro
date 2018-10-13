@@ -1,0 +1,1 @@
+You said <b>${usersCity}</b>, so I say <b>${responseCity}</b>

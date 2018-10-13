@@ -1,0 +1,1 @@
+You're wrong! Try again. I said <b>${responseCity}</b>
